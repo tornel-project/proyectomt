@@ -3,6 +3,8 @@
 		width:100%; 
 		border-collapse:collapse; 
 	}
+
+	
 	.hoverTable td{ 
 		padding:7px; border:#4e95f4 1px solid;
 	}
